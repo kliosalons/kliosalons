@@ -1,0 +1,275 @@
+
+#title {
+  background-color: #F9F9F9;
+}
+
+.vizitki{
+  width:90%;
+  margin:auto;
+}
+.navbar{
+  width: 100%;
+   background-color: #704F4F;
+     position: fixed;
+}
+
+.nbg{
+  position: absolute;
+}
+
+.test4{
+  padding-top: 100px;
+}
+.nav-item{
+  padding-right:15px;
+}
+
+.navbar-collapse{
+  text-align: center;
+}
+
+.logo{
+  width: 100px;
+}
+
+.photo{
+  width:100%;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+
+.zagalovok1{
+font-family: 'Abyssinica SIL';
+  text-align: center;
+  color: #472D2D;
+}
+
+hr {
+width: 50%;
+align: center;
+margin: 0 25%;
+color: black;
+}
+
+
+.zagalovok2{
+  /*font-family: 'Alkalami', serif;*/
+  font-family: 'Reem Kufi Ink', sans-serif;
+  text-align: center;
+  padding-bottom: 45px;
+font-weight: 100;
+  color: #472D2D;
+}
+
+.klio_inside_image{
+  text-align: center;
+}
+
+
+
+.darba_laiks{
+  text-align: center;
+  padding-top: 60px;
+}
+
+.imgklioinside{
+  width: 20rem;
+  padding-bottom: 30px;
+}
+
+.darba_laiks{
+  font-family: 'Playfair Display SC';
+  font-size: 35px;
+  font-weight: 600;
+  color: black;
+}
+
+
+
+
+.pakunkon{
+  padding-top: 90px;
+}
+
+
+
+
+#parmums{
+  background-color: #F6E7D8;
+}
+
+.mes_nodrosinam{
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.box{
+  text-align:center;
+  padding: 5%;
+}
+.beauty_icons{
+  color:#512B58;
+  font-size: 50px;
+  padding-bottom: 5%;
+}
+
+.beauty_icons:hover{
+  color: #A77979;
+}
+
+
+
+#collage{
+
+}
+
+.collage_photo{
+width:100%;
+}
+
+
+
+
+
+
+
+#par_mums2{
+background-color: #c2a1a1;
+padding-top: 50px;
+padding-bottom: 20px;
+}
+
+.klio_outside{
+    width: 100%;
+    text-align: center;
+}
+
+/* FCF8E8      F6E7D8       F9F9F9  */
+.row12{
+  margin-top:0;
+  color: #3B2B2B;
+  padding-bottom: 40px;
+  text-align: center;
+}
+#carousel{
+  padding-top:10px;
+  padding-bottom:80px;
+}
+
+#carouselExampleIndicators{
+  margin: auto;
+  width: 90%;
+}
+
+#informacija{
+  padding-top: 110px;
+  padding-bottom: 110px;
+  text-align: center;
+}
+
+.btn1{
+  text-align: center;
+}
+
+.map12{
+  padding-top: 100px;
+  padding-bottom:5px;
+    margin: auto;
+    width:80%;
+}
+
+
+.musu_meistari{
+  font-family: 'Michroma', sans-serif;
+  text-align: center;
+  padding-top: 60px;
+  color: #512B58;
+}
+
+
+
+
+
+
+
+
+.pk_zagolovok{
+  text-align: center;
+  padding-top:30px;
+}
+
+.pkcontainer{
+  padding-bottom:30px;
+}
+.klinside{
+  width:80%;
+
+}
+
+
+.arrow{
+font-size: 30px;
+color:#512B58;
+ padding: 0px 20px;
+}
+
+.btn5{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+
+.aicinam{
+  border-style: double;
+  border-radius: 20px;
+  border-width: auto;
+  border-color: #F68989;
+  background-color: #F5EFE6;
+  padding:50px;
+  margin-top: 50px;
+  margin-bottom: 90px;
+  margin-left: auto;
+  margin-right:auto;
+  width: 60%;
+  text-align: center;
+}
+
+.tempvak{
+  width:300px;
+  text-align: center;
+  padding-right: 30px
+}
+.k {
+  padding:auto;
+  display: flex;
+  align-items: center;
+}
+
+.l{
+  text-align: center;
+    align-items: center;
+    margin:auto;
+  padding-left:auto;
+  padding-right: auto;
+  margin-bottom:20px;
+}
+
+
+
+
+.gallerija{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.galleryphotos{
+  margin: auto;
+  padding: 50px;
+  width: 85%;
+}
+
+#adv{
+  padding-top:100px;
+}
