@@ -3,6 +3,11 @@ width: 50%;
 margin: 0 25%;
 color: black;
 }
+@media(max-width:900px){
+  .t{
+    font-size: 40px;
+  }
+}
 
 
 /*  INDEX */
@@ -196,7 +201,7 @@ color:#512B58;
 
 /* VAKANCES */
 #adv{
-  padding-top:100px;
+  padding-top:300px;
 }
 .aicinam{
   border-style: double;
