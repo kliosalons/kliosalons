@@ -256,10 +256,16 @@ color:#512B58;
   .kl{
     font-size: 16px;
   }
+}
+
+@media(max-width: 1100px){
   .test4{
-    width:50rem;
+    width:1000px;
+  display: flex;
+  justify-content: center;
   }
   .photo{
-    width:50rem;
+    width:900px;
+
   }
 }
