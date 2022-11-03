@@ -256,7 +256,10 @@ color:#512B58;
   .kl{
     font-size: 16px;
   }
+  .test4{
+  width:100%;
+  }
   .photo{
-  width:50rem;
+  width:100%;
   }
 }
