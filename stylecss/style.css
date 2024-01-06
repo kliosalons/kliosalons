@@ -10,6 +10,7 @@ color: black;
 }
 
 
+
 /*  INDEX */
 #title {
   background-color: #F9F9F9;
@@ -91,6 +92,7 @@ color: black;
 }
 .collage_photo{
 width:100%;
+margin-bottom:20px;
 }
 .box{
   text-align:center;
@@ -267,6 +269,7 @@ color:#512B58;
   .kl{
     font-size: 16px;
   }
+
 }
 
 
