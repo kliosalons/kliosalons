@@ -269,7 +269,25 @@ color:#512B58;
   .kl{
     font-size: 16px;
   }
-
 }
 
+.main_button{
+width:800px; height:100px;
+}
+.ludzam_zvanit{
+  font-size:65px;
+  }
+.uzspied{
+font-size:40px;}
 
+  @media (max-width: 768px) {
+  .ludzam_zvanit{
+  font-size:35px;
+  }
+    .main_button {
+      width: 300px;
+      height: 100px;
+    }
+    .uzspied{
+font-size:25px;}
+  }
