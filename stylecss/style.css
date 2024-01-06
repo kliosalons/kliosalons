@@ -280,14 +280,15 @@ width:800px; height:100px;
 .uzspied{
 font-size:40px;}
 
-  @media (max-width: 1000px) {
-  .ludzam_zvanit{
-  font-size:35px;
+@media (max-width: 900px) {
+  .ludzam_zvanit {
+    font-size: 35px;
   }
-    .main_button {
-      width: 300px;
-      height: 100px;
-    }
-    .uzspied{
-font-size:25px;}
+  .main_button {
+    width: 300px;
+    height: 100px;
   }
+  .uzspied {
+    font-size: 25px;
+  }
+}
