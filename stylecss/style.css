@@ -280,7 +280,7 @@ width:800px; height:100px;
 .uzspied{
 font-size:40px;}
 
-  @media (max-width: 600px) {
+  @media (max-width: 1000px) {
   .ludzam_zvanit{
   font-size:35px;
   }
